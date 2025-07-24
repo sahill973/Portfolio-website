@@ -263,7 +263,6 @@ const Footer: React.FC = () => (
                 </a>
             </div>
             <p>&copy; {new Date().getFullYear()} Sahil Chauhan. All rights reserved.</p>
-            <p className="text-sm mt-4 text-slate-500">Ready for deployment or further customization!</p>
         </div>
     </footer>
 );
